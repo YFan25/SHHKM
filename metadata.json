@@ -1,0 +1,6 @@
+{
+  "name": "SHHKM App",
+  "description": "Internal business app for product catalogue search, customer sharing, and quotation generation for Company 1 and Company 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
